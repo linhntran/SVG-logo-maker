@@ -36,7 +36,7 @@ The user will also need to make sure they have Jest package installed. Visit the
 
 ## Usage
 
-A README file is a key component of a developer's profile containing essential information about the repository's project. Once all technologies listed in the Installation section above have been installed, simply invoke the application by using the `node index.js` command. 
+Once all technologies listed in the Installation section above have been installed, simply invoke the application by using the `node index.js` command to get your SVG logo created. 
 
 ## Credits
 
